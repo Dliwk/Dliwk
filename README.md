@@ -1,5 +1,5 @@
-### Hi there 👋
+### Hello everyone 👋
 
-You somehow found yourself in my profile...
+I'm a young 15 years old student from Russia who loves fruits and often doing some random stuff on my laptop, from chatbots to a (very) minimalistic OS kernel. The last one by the way never finished :sob:
 
-![super](https://vk.com/sticker/1-126-128)
+btw I use archlinux :penguin:
